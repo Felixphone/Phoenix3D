@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Phoenix3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phoenix3D</output-path>
+    <root id="archive" name="Phoenix3D.jar">
+      <element id="module-output" name="Phoenix3D" />
+    </root>
+  </artifact>
+</component>
